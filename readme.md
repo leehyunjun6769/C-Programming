@@ -9,7 +9,7 @@
 
 int main()
 {
-    // result를 이용한 사칙연산
+    // result를 이용한 사칙연산 
     double x, y, result;
 
     printf("두개의 실수를 입력하세요 : ");
