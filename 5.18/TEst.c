@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main()
+{ 
+
+	char book[] = "æ»≥Á«œººø‰";
+
+	printf("%d", sizeof(book));
+}
